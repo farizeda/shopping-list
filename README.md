@@ -5,5 +5,5 @@ NPM     : 2201233210
 Kelas   : PBP-B
 
 Barang yang perlu dibeli:
-    - Zariff's Prosthetic Arm
-    - Aqua Heartia
+1. Zariff's Prosthetic Arm
+2. Aqua Heartia
