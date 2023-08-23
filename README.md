@@ -1,5 +1,11 @@
-Nama    : Adrian Holovaty
+Nama    : Rudeus Greyrat
 
-NPM     : 1006123456
+NPM     : 2201233210
 
-Kelas   : Z
+Kelas   : PBP-B
+
+Barang yang perlu dibeli:
+
+    - Zariff's Prosthetic Arm
+    
+    - Aqua Heartia
