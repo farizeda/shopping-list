@@ -10,3 +10,6 @@ Barang yang perlu dibeli:
 
 Barang yang ingin dibeli:
 1. 3D Maneuvering Gear 
+
+Barrang yang direfund:
+1. Berserker Fury
