@@ -1,4 +1,6 @@
-Nama    : Fariz Eda
+### SHOPPING CART
+
+Nama    : Fariz  
 NPM     : 2106653546
 Kelas   : PBP-B
 Barang yang perlu dibeli:
